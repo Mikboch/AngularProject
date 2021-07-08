@@ -15,9 +15,13 @@ body {
   margin: 30px auto;
   overflow: auto;
   min-height: 300px;
-  border: 1px solid steelblue;
+  border: 2px solid steelblue;
   padding: 30px;
   border-radius: 5px;
+  /* outline-style: solid;
+  outline-color: skyblue;
+  outline-width: thick; */
+  box-shadow: 0 0 40px skyblue;
 }
 .btn {
   display: inline-block;
